@@ -1,2 +1,2 @@
 # travel-recommendation
-Created with CodeSandbox
+Travel recommendation app for places in Goa.
